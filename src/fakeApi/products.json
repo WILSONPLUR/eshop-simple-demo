@@ -1,0 +1,253 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Jeans",
+      "description": "Jeans with a slim fit are narrowed models that allow you to move freely and do not cause discomfort while walking.\n\nMaterial:\n- premium quality European denim fabric;\n- 100% cotton.\n\nDetails and cut:\n- slim fit;\n- fastener in the form of buttons;\n- two pockets in the front and two in the back;\n- the belt fastens with a button, there are loops for the belt (the width of the loops is 5 cm);\n- a tag with the Staff logo is sewn on the back.\n\nSeason:\n- year-round\n\nColor:\n- shabby blue.\n\nCare:\n- washing in normal mode at a temperature not higher than 30°C, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.\n\nOn the picture:\n- height of the model - 175 cm;\n- model weight - 71 kg;\n- size of things - \"31\".",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/80/47a5cf2c98c24f66baf7051bc819e89b.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/80/47a5cf2c98c24f66baf7051bc819e89b.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/80/52f59873d3644f85ada5019474d401c7.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/80/47a5cf2c98c24f66baf7051bc819e89b.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/80/52f59873d3644f85ada5019474d401c7.jpeg"
+        }
+      ],
+      "price": 300,
+      "sizes": ["xl", "l", "m"],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "blue"
+        },
+        {
+          "id": 2,
+          "name": "black"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cap",
+      "description": "The cap from Staff perfectly protects against the sun's rays, while perfectly complementing any image.\n\nMaterial:\n- 70% cotton, 30% polyester.\n\nDetails and cut:\n- the size is adjustable from the back with the help of a belt lock;\n- curved visor (visor length - 7 cm);\n- lining tape on the inside;\n- a tag with the Staff logo is sewn on the back.\n\nSeason:\n- spring/summer.\n\nColor:\n- black\n\nCare:\n- washing in normal mode at a temperature not higher than 30°С, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/44/77423ce58ab24f8b9b97ea222c8a3fda.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/44/77423ce58ab24f8b9b97ea222c8a3fda.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/44/fbaee71bc46d4fa888d3ef985c75e6dd.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/44/77423ce58ab24f8b9b97ea222c8a3fda.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/44/fbaee71bc46d4fa888d3ef985c75e6dd.jpeg"
+        }
+      ],
+      "price": 50,
+      "sizes": ["l", "m"],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "black"
+        },
+        {
+          "id": 2,
+          "name": "white"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "T-Shirt",
+      "description": "Comfortable fit and stylish design will allow you to feel comfortable both on a walk and during sports.\n\nMaterial:\n- 90% cotton, 10% elastane.\n\nDetails and cut:\n- round cut;\n- classic cut;\n- quality prints on the front, back and left sleeve;\n- a tag with the Staff logo sewn into the side seam.\n\nSeason:\n- year-round\n\nColor:\n- black\n\nCare:\n- washing in normal mode at a temperature not higher than 30°C, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.\n\nOn the picture:\n- height of the model - 175 cm;\n- model weight - 71 kg;\n- size of things - \"M\".",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/61/c5786427551f4f9aadcb3c5c7ca688fd.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/61/c5786427551f4f9aadcb3c5c7ca688fd.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/61/802626552bd84fe28e5d8f2decd2e040.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/61/c5786427551f4f9aadcb3c5c7ca688fd.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/61/802626552bd84fe28e5d8f2decd2e040.jpeg"
+        }
+      ],
+      "price": 200,
+      "sizes": ["xl", "l", "m"],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "black"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Sweatshirt",
+      "description": "A basic sweatshirt will easily complement any look and become a useful part of your wardrobe for all occasions.\n\nMaterial:\n- quality European 100% cotton.\n\nDetails and cut:\n- classic cut;\n- a tag with the Staff logo is sewn on the sleeve.\n\nSeason:\n- year-round\n\nColor:\n- khaki.\n\nCare:\n- washing in normal mode at a temperature not higher than 30°C, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.\n\n\nOn the picture:\n- height of the model - 182 cm;\n- model weight - 74 kg;\n- size of things - \"M\".",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/82/17eec003e3494fe59be5ef435198b12d.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/82/17eec003e3494fe59be5ef435198b12d.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/79/e0f74dbf6b094f5e8d47e180b4f36eb2.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/82/17eec003e3494fe59be5ef435198b12d.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/79/e0f74dbf6b094f5e8d47e180b4f36eb2.jpeg"
+        }
+      ],
+      "price": 20,
+      "sizes": [
+        "xl",
+        "m",
+        "l"
+      ],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "#807d5a"
+        },
+        {
+          "id": 2,
+          "name": "black"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Backpack",
+      "description": "Material:\n- the top is made of durable and waterproof polyester;\n- eco-leather;\n- lining 100% polyester.\n\nDetails and cut:\n- size: height 46 cm, width 32 cm, side width 20 cm;\n- the bottom of the backpack is reinforced with an additional layer of eco-leather;\n- two large external compartments with a two-way zipper and one vertical pocket;\n- two large patch pockets inside: open and with Velcro;\n- YKK fittings;\n- shoulder straps are adjustable in length;\n- print with the Staff logo on the front.\n\nCare:\n- washing in normal mode at a temperature not higher than 30°C, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.\n\n",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/81/57dac0abf02a4f7ebef6c28d5bd27500.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/81/57dac0abf02a4f7ebef6c28d5bd27500.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/81/c1fdf04bc7e84f1f8c80b129c0e75038.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/81/57dac0abf02a4f7ebef6c28d5bd27500.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/81/c1fdf04bc7e84f1f8c80b129c0e75038.jpeg"
+        }
+      ],
+      "price": 20,
+      "sizes": [
+        "m",
+        "l"
+      ],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "#464F6E"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Hoodie",
+      "description": "The insulated oversize sweatshirt with a loose fit will protect against the cold and create an exclusive look thanks to the original intermittent elastic band on the sides.\n\nMaterial:\n- quality European 100% cotton with nachos.\n\nDetails and cut:\n- oversize cut type;\n- the width of the hood is adjustable with a cord;\n- front kangaroo pocket;\n- quality print on the chest.\n\nSeason:\n- autumn/winter.\n\nColor:\n- lemon\n\nCare:\n- washing in normal mode at a temperature not higher than 30°C, without spinning;\n- bleaching is prohibited;\n- dry in a suspended state, without using artificial drying.\n\nOn the picture:\n- height of the model - 172 cm;\n\n",
+      "cover": "https://static.staff-clothes.com/uploads/media/image_product/0002/76/a7f060f5b53a4f7588a04586074594d9.jpeg",
+      "images": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/76/a7f060f5b53a4f7588a04586074594d9.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/76/0c43e62a88f94fe0b875bb735f65dd72.jpeg"
+        },
+        {
+          "id": 3,
+          "path": "https://static.staff-clothes.com/uploads/media/image_product/0002/76/f84d9819caca4f92941e74c58153ebb3.jpeg"
+        }
+      ],
+      "thumbnails": [
+        {
+          "id": 1,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/76/a7f060f5b53a4f7588a04586074594d9.jpeg"
+        },
+        {
+          "id": 2,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/76/0c43e62a88f94fe0b875bb735f65dd72.jpeg"
+        },
+        {
+          "id": 3,
+          "path": "https://static.staff-clothes.com/media/cache/image_product_desktop_product_thumbnail/image_product/0002/76/f84d9819caca4f92941e74c58153ebb3.jpeg"
+        }
+      ],
+      "price": 75,
+      "sizes": [
+        "s",
+        "m",
+        "l"
+      ],
+      "allSizes": ["xl", "l", "m", "s"],
+      "colors": [
+        {
+          "id": 1,
+          "name": "#DCE3AF"
+        },
+        {
+          "id": 2,
+          "name": "#C1D5E0"
+        },
+        {
+          "id": 3,
+          "name": "#0E0E0E"
+        }
+      ]
+    }
+  ]
+}
